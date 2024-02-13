@@ -1,0 +1,17 @@
+@media(max-width: 1074px){
+    .cabecalho {
+        flex-direction: column;
+    }
+    .Site .inform .titulo{
+        width: 1100px;
+        
+        
+    }
+}
+@media(min-width: 1074px){
+    .Site .inform .titulo{
+        width: 1100px;
+    }
+}
+
+     
